@@ -7,7 +7,7 @@ import plotly.io as pio
 import plotly.figure_factory as ff
 import plotly.graph_objects as go
 
-df = pd.read_csv(r"C:\Users\noure\OneDrive\Desktop\Nour\MSBA\Visualization\3rd Week\milk-production-tonnes-assignment1.csv")
+df = pd.read_csv("milk-production-tonnes-assignment1.csv")
 
 st.image("https://images.unsplash.com/photo-1618338423029-cf13f0cbe809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=918&q=80")
 
